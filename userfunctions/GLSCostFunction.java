@@ -34,6 +34,8 @@ import functions.WeightingFunction;
 
 /**
  * @author Francesco creato il 29/lug/2014 18:20:28
+ * I give an explanation about how those WeightingFunctions are built in Section 4.5 of my PhD Thesis.
+ * http://dspace.unical.it:8080/xmlui/bitstream/handle/10955/1364/fLupia.pdf?sequence=1
  */
 
 public class GLSCostFunction implements WeightingFunction<GLSDV> {
